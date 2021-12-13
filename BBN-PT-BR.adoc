@@ -91,12 +91,19 @@ O BBN-OS é gratuito baseado em projetos de código aberto suportados pela comun
 *Decodificador de rádio SSB
 
 *Servidor de dados náuticos, multiplexador
+
 *Ponto de Acesso Wi-Fi
+
 *Monitoramento de câmeras
+
 *Servidor de análise de dados
+
 *Estação meteorológica
+
 *Painéis de instrumentos da embarcação
+
 *Servidor de arquivos
+
 *Autonomia
 
 
