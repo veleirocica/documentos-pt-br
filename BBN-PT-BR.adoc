@@ -75,13 +75,21 @@ O BBN-OS é gratuito baseado em projetos de código aberto suportados pela comun
 ==== Utilizações:
 
 *Chartplotter em monitor Touchscreen no Cockpit
+
 *Nav Station Computer
+
 *Computador desktop
+
 *Laptop baseado em Pi
+
 *Servidor com inicialização automática
+
 *Reprodutor de mídia
+
 *Piloto automático
+
 *Decodificador de rádio SSB
+
 *Servidor de dados náuticos, multiplexador
 *Ponto de Acesso Wi-Fi
 *Monitoramento de câmeras
